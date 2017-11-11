@@ -1,0 +1,6 @@
+c:\users\proga\documents\visual studio 2012\Projects\Lecture3HomeWork\Lecture3HomeWork\bin\Debug\Lecture3HomeWork.exe.config
+c:\users\proga\documents\visual studio 2012\Projects\Lecture3HomeWork\Lecture3HomeWork\obj\Debug\Lecture3HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\Proga\Documents\Visual Studio 2012\Projects\Lecture3HomeWork\Lecture3HomeWork\bin\Debug\Lecture3HomeWork.exe
+C:\Users\Proga\Documents\Visual Studio 2012\Projects\Lecture3HomeWork\Lecture3HomeWork\bin\Debug\Lecture3HomeWork.pdb
+C:\Users\Proga\Documents\Visual Studio 2012\Projects\Lecture3HomeWork\Lecture3HomeWork\obj\Debug\Lecture3HomeWork.exe
+C:\Users\Proga\Documents\Visual Studio 2012\Projects\Lecture3HomeWork\Lecture3HomeWork\obj\Debug\Lecture3HomeWork.pdb
